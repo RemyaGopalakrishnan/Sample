@@ -2,8 +2,7 @@
    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
-<head>
-hi
+<head></head>
 <meta charset="ISO-8859-1">
 <title>WellBeing User</title>
 </head>
